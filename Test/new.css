@@ -1,0 +1,12 @@
+ul  {
+    display: flex;
+    list-style: none;
+    width: 1200px;
+    margin: auto;
+}
+
+.menu {
+    background-color: gold;
+    height: 30px;
+    width: 100%;
+}
